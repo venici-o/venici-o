@@ -4,7 +4,7 @@ Opa! Meu nome é Vinicius, e sou um:
 🎨 (Quase) Artista tradicional e aprendendo arte digital.  
 🎮 GameDev e Game Designer em formação.
 # 🌐 Minhas Redes
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venici-o)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinisbarbosa)
 # 💻 Tech Stack
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
