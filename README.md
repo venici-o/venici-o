@@ -17,5 +17,5 @@ Opa! Meu nome é Vinicius, e sou um:
 Uma experiência casual contando com aspectos cômicos e puzzles para toda a família!  
 Demo no BITSY [aqui!](https://vinisbosa.itch.io/cesar-is-late)
 ## BemPerto
-![BemPerto](https://raw.githubusercontent.com/venici-o/venici-o/main/bemperto.png)
+![BemPerto](https://raw.githubusercontent.com/venici-o/venici-o/main/bempertoss.png)
 Propondo o futuro da segurança escolar, o BemPerto oferece um sistema de monitoramento tecnológico e refinado para garantir a segurança e integridade dos estudantes
