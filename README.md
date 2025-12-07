@@ -1,6 +1,6 @@
 # 💥 Sobre Mim
 Opa! Meu nome é Vinicius, e sou um:
-🟠 Estudante de Ciência da Computação na CESAR School.  
+<br>🟠 Estudante de Ciência da Computação na CESAR School.  
 🎨 (Quase) Artista tradicional e aprendendo arte digital.  
 🎮 GameDev e Game Designer em formação.
 # 🌐 Minhas Redes
